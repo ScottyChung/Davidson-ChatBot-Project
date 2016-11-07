@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "botbuilder": "^3.3.3"
+    "botbuilder": "^3.3.3",
+    "watson-developer-cloud": "^2.8.1"
   },
-  "author":{
-      "name":"Pon ArunKumar Ramalingam",
-      "email": "ponarunkumar@gmail.com"
+  "author": {
+    "name": "Pon ArunKumar Ramalingam",
+    "email": "ponarunkumar@gmail.com"
   }
 }
